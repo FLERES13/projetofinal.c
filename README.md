@@ -23,7 +23,7 @@ O Sistema de Registro de Chamada é uma ferramenta flexível e intuitiva projeta
 
 Para usar este projeto, siga os passos abaixo:
 
-Quantitativo de Alunos - Antes de usufruir das funcionalidades do sisteam é necessário informar a quanidade de alunos que será cadastrada previamente no sistema.
+Quantitativo de Alunos - Antes de usufruir das funcionalidades do sistema é necessário informar a quantidade de alunos que será cadastrada previamente no sistema.
 
 Cadastro de Alunos - Antes de começar a registrar chamadas, é necessário cadastrar os alunos participantes. Utilize a opção "1. Inserir um novo aluno" no menu principal para adicionar informações como nome, matrícula e data de nascimento. Este passo é crucial para a identificação precisa durante o processo de chamada.
 
